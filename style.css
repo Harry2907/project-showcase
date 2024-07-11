@@ -13,7 +13,7 @@ html{
 
 
 ::-webkit-scrollbar {
-    width: 13px;
+    width: 20px;
 }
 ::-webkit-scrollbar-track {
     background: #f1f1f1;
@@ -62,7 +62,7 @@ section .title::before{
     bottom: 0px;
     left: 50%;
     width: 180px;
-    height: 3px;
+    height: 30px;
     background: #111;
     transform: translateX(-50%);
 }
